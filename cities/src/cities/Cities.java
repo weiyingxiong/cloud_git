@@ -18,6 +18,7 @@ public class Cities {
 	public String getCity(int i) {
 		return city.get(i);
 	}
+	//get distance
 	public void addDistance(String s,Integer i) {
 		distance.put(s, i);
 	}
